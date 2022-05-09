@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8VekADq1TI5Ofzs4ljZSj4BH8LW0K7Um-cA&usqp=CAU");
+
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: Merriweather;
+}
+
+h2 {
+    color: #9900cc;
+    font-family: Merriweather;
+}
+
+h3 {
+    color: #C83282;
+    text-align: center;
+    font-family: Zen Old Mincho;
+}
+
+p {
+    font-family: Poppins;
+    color: #ccff99;
+    font-size: 15px;
+    text-align: center;
+    
+}
+
+ul {
+    color: #99ffff;
+    font-size: 25px;
+    font-family: Oswald;
+}
+
+img {
+    width: 550px;
+}
+
+.cake {
+    background-color: #ffff99;
+    
+}
+
+.cak {
+    background-color: #7730B5;
+}
+
+.cute {
+    color: #ffff99;
+    background-color: #7730B5;
+}
